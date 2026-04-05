@@ -76,7 +76,7 @@
   - [ ] 洛杉矶 2 晚（4/20-21）— Hollywood / Koreatown
   - [ ] 圣地亚哥 2 晚（4/22-23）— Gaslamp Quarter
   - [ ] 旧金山 3 晚（4/24-26）— Union Square / Fisherman's Wharf
-  - [ ] 西雅图 — 确认是否住朋友家 / 预订酒店
+  - [ ] 西雅图 3 晚（4/27-29）— Pike Place / Capitol Hill
 
 ---
 
