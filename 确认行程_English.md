@@ -1,7 +1,7 @@
 # 2026 April US West Coast Solo Trip — Itinerary
 
-**Travel Dates:** April 14 – April 29, 2026 (16 days)  
-**Route:** Shanghai → Dallas (transit overnight) → Los Angeles (3 nights) → San Diego (2 nights) → Las Vegas (2 nights) → San Francisco (5 nights) → Seattle (2 nights) → Shanghai  
+**Travel Dates:** April 14 – April 30, 2026 (17 days)  
+**Route:** Shanghai → Dallas (transit overnight) → Los Angeles (3 nights) → San Diego (2 nights) → Las Vegas (2 nights) → San Francisco (3 nights) → Seattle (4 nights) → Shanghai  
 **Purpose:** Tourism — sightseeing, NBA game, cultural exploration
 
 ---
@@ -21,11 +21,12 @@
 | 4/22 (Wed) | San Francisco, CA | TBD (Downtown SF) | Fly from Las Vegas |
 | 4/23 (Thu) | San Francisco, CA | TBD (Downtown SF) | Golden Gate Bridge, Chinatown |
 | 4/24 (Fri) | San Francisco, CA | TBD (Downtown SF) | Cable Car, Twin Peaks |
-| 4/25 (Sat) | San Francisco, CA | TBD (Downtown SF) | Sausalito ferry |
-| 4/26 (Sun) | San Francisco, CA | TBD (Downtown SF) | Alcatraz / free exploration |
-| 4/27 (Mon) | Seattle, WA | TBD (Pike Place Market area) | Fly from San Francisco |
-| 4/28 (Tue) | Seattle, WA | TBD (Pike Place Market area) | Seattle sightseeing |
-| 4/29 (Wed) | Depart Seattle | — | Return flight to Shanghai |
+| 4/25 (Sat) | San Francisco, CA | TBD (Downtown SF) | Sausalito ferry, free exploration |
+| 4/26 (Sun) | Seattle, WA | TBD (Pike Place Market area) | Fly from San Francisco |
+| 4/27 (Mon) | Seattle, WA | TBD (Pike Place Market area) | Seattle sightseeing — landmarks |
+| 4/28 (Tue) | Seattle, WA | TBD (Pike Place Market area) | Boeing Factory, Fremont, UW |
+| 4/29 (Wed) | Seattle, WA | TBD (Pike Place Market area) | Museum of Flight, Discovery Park |
+| 4/30 (Thu) | Depart Seattle | — | Return flight to Shanghai |
 
 ---
 
@@ -131,16 +132,10 @@
 
 ---
 
-### Day 12 — April 25 (Sat): San Francisco — Sausalito & Golden Gate Park
+### Day 12 — April 25 (Sat): San Francisco — Sausalito & Free Exploration
 - Ferry from Ferry Building → Sausalito (~30 min, scenic Golden Gate views)
 - Sausalito town walk (Mediterranean-style bayside village)
 - Return ferry to SF
-- Golden Gate Park — Stow Lake, California Academy of Sciences (optional)
-- Haight-Ashbury (historic 1960s counterculture neighborhood)
-
----
-
-### Day 13 — April 26 (Sun): San Francisco — Free Exploration
 - Option A: **Alcatraz Island** (advance booking required, ~$42, includes audio tour)
 - Option B: Muir Woods (ancient redwood forest, ~40 min from SF)
 - Option C: Union Square shopping, Embarcadero waterfront walk
@@ -148,7 +143,7 @@
 
 ---
 
-### Day 14 — April 27 (Mon): San Francisco → Seattle
+### Day 13 — April 26 (Sun): San Francisco → Seattle
 - Morning: Check out
 - BART train to SFO (~30 min)
 - **Fly San Francisco (SFO) → Seattle (SEA)**, ~2 hours
@@ -158,7 +153,7 @@
 
 ---
 
-### Day 15 — April 28 (Tue): Seattle Sightseeing
+### Day 14 — April 27 (Mon): Seattle Sightseeing — Landmarks
 - Kerry Park (city skyline + Mt. Rainier view)
 - Space Needle + Chihuly Garden and Glass
 - MoPOP (Museum of Pop Culture)
@@ -167,10 +162,29 @@
 
 ---
 
-### Day 16 — April 29 (Wed): Seattle → Return to Shanghai
-- Morning: Final shopping at Pike Place Market
+### Day 15 — April 28 (Tue): Seattle Sightseeing — Tech & Culture
+- Boeing Future of Flight factory tour (world's largest building, Everett)
+- Fremont District — Fremont Troll, Fremont Rocket, Lenin Statue
+- Gas Works Park (skyline views over Lake Union)
+- University of Washington campus (Suzzallo Library — "Harry Potter" vibes)
+- University Village shopping
+
+---
+
+### Day 16 — April 29 (Wed): Seattle Sightseeing — Deep Exploration
+- Museum of Flight (largest private air & space museum in the US)
+- Pioneer Square (Seattle's birthplace, Victorian architecture)
+- Amazon Spheres (exterior), Amazon Go store
+- Discovery Park + West Point Lighthouse (Puget Sound & Olympic Mountain views)
+- Final Pike Place Market visit for souvenirs
+- Farewell dinner
+
+---
+
+### Day 17 — April 30 (Thu): Seattle → Return to Shanghai
+- Morning: Final packing
 - Link Light Rail to SeaTac Airport (~40 min)
-- **Depart Seattle (SEA) ~15:00 → Arrive Shanghai ~April 30**
+- **Depart Seattle (SEA) ~14:00 → Arrive Shanghai ~May 1**
 
 ---
 
@@ -183,7 +197,7 @@
 | **NBA Ticket** | LA Clippers vs Golden State Warriors, April 15, 6:30 PM PT |
 | **Seat** | Intuit Dome — SEC CLUB26 ROW14 Seat1 (Club Level) |
 | **Hotel Night 1** | Holiday Inn Express & Suites IRVING DFW (Dallas) |
-| **Return Flight** | Seattle SEA → Shanghai, April 29 |
+| **Return Flight** | Seattle SEA → Shanghai, April 30 |
 
 ---
 
